@@ -39,6 +39,13 @@ The function prints the estimated cost for each individual and returns the value
   - **Solution**: I created a reusable `calculate_insurance_cost()` function to handle all calculations, improving modularity and reducing redundancy.
 - **Challenge**: The output was generic, referring to “this person” without personalization.
   - **Solution**: Added a `name` parameter to the function, allowing for personalized output (example: “The estimated insurance cost for Maria is…”).
+ 
+
+## New Feature: Smoking Analysis
+
+Added a function `analyze_smoker()` that uses control flow (`if/else`) to provide advice:
+- Suggests quitting smoking to save $10,000 for smokers.
+- Confirms smoking is not an issue for non-smokers.
 
 ## Future Improvements
 
