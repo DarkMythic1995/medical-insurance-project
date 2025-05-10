@@ -2,8 +2,11 @@
 
 A Python script to calculate medical insurance costs based on age, sex, BMI, number of children, and smoking status.
 
-## Usage
+## Skills Demonstrated
+- Python programming
+- Function design and modularity
+- Basic data processing and calculations
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/DarkMythic1995/medical-insurance-project.git
+## Challenges Overcome
+- Condensed repetitive code into a reusable `calculate_insurance_cost()` function.
+- Added a `name` parameter to personalize output, improving user experience.
