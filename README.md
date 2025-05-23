@@ -1,6 +1,6 @@
 # Medical Insurance Project
 
-This Python script was made to calculate medical insurance costs based on user inputs like age, sex, BMI, number of children, and smoking status. I built this project as part of my learning journey to practice Python programming, function design, and data processing.
+This Python script was made to calculate medical insurance costs based on user inputs like age, sex, BMI, number of children, and smoking status. I built this project as part of my learning journey to practice Python programming, function design, and data processing. Both parts of this project function with Jupyter notebook.
 
 ## Project Overview
 
